@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-typescript-tdd-ddd-clean_architecture-solid",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://app.travis-ci.com/KelpGF/NodeJs-Typescript-TDD-DDD-Clean_Architecture-SOLID.svg?branch=master)](https://app.travis-ci.com/KelpGF/NodeJs-Typescript-TDD-DDD-Clean_Architecture-SOLID)\r [![Coverage Status](https://coveralls.io/repos/github/KelpGF/NodeJs-Typescript-TDD-DDD-Clean_Architecture-SOLID/badge.svg?branch=master)](https://coveralls.io/github/KelpGF/NodeJs-Typescript-TDD-DDD-Clean_Architecture-SOLID?branch=master)\r [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com)\r [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
